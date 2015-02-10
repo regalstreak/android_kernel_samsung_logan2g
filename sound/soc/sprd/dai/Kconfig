@@ -1,0 +1,4 @@
+config SND_SPRD_SOC_AUDIO_DMA
+	tristate
+	help
+	 use this for dma likely sc8810
